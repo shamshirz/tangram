@@ -1,4 +1,4 @@
-module Main exposing (Model, Msg(..), Palette, constellation, init, main, palette, tangram, update, view)
+module Main exposing (Model, Msg(..), Palette, corvus, init, main, palette, tangram, update, view)
 
 import Animation exposing (px)
 import Browser
